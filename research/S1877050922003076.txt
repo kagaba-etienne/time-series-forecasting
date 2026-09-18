@@ -1,0 +1,11 @@
+Taha Falatouri, Farzaneh Darbanian, Patrick Brandtner, Chibuzor Udokwu,
+Predictive Analytics for Demand Forecasting – A Comparison of SARIMA and LSTM in Retail SCM,
+Procedia Computer Science,
+Volume 200,
+2022,
+Pages 993-1003,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2022.01.298.
+(https://www.sciencedirect.com/science/article/pii/S1877050922003076)
+Abstract: The application of predictive analytics (PA) in Supply Chain Management (SCM) has received growing attention over the last years, especially in demand forecasting. The purpose of this paper is to provide an overview of approaches in retail SCM and compare the quality of two selected methods. The data used comprises more than 37 months of actual retail sales data from an Austrian retailer. Based on this data, SARIMA and LSTM models were trained and evaluated. Both models produced reasonable to good results. In general, LSTM performed better for products with stable demand, while SARIMA showed better results for products with seasonal behavior. In addition, we compared results with SARIMAX by adding the external factor of promotions and found that SARIMAX performed significantly better for products with promotions. To further improve forecasting quality on the store level, we suggest hybrid approaches by training SARIMA(X) and LSTM on similar, pre-clustered store groups.
+Keywords: Predictive Analytics; Demand Forecasting; Machine Learning; Supply Chain Management
