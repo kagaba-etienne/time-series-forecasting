@@ -14,6 +14,8 @@ tqdm = "*"
 numpy = "*"
 pyarrow = "*"
 statsmodels = "*"
+scikit-learn = "*"
+tabulate = "*"
 
 [dev-packages]
 
