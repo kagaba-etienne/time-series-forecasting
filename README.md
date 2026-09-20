@@ -58,6 +58,11 @@ data/
     └── milan_internet_traffic.parquet
 ```
 
+## Data citation
+
+- Grid (`data/raw/grid/`): Telecom Italia, “Milano Grid.” Harvard Dataverse, 2015. doi: [10.7910/DVN/QJWLFU](https://doi.org/10.7910/DVN/QJWLFU).
+- CDRs (`data/raw/cdrs/`): Telecom Italia. 2015. “Telecommunications - SMS, Call, Internet - MI.” Harvard Dataverse. [https://doi.org/10.7910/DVN/EGZHFV](https://doi.org/10.7910/DVN/EGZHFV).
+
 ## Training logs
 
 Captured stdout from `python src/train.py` (ARIMAX, LSTM, and Transformer across squares 5161, 5059, and 5259) is in [`logs/train.log`](logs/train.log). Forecast figures are saved under `reports/figures/`.
